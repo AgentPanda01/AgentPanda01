@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AgentPanda01
+- 👋 Hi, I’m Akshit Mathur
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on random fun projects
-- 📫 How to reach me "agentpanda06@gmail.com"
+- 📫 How to reach me "mathurakshit.work@gmail.com"
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i can do a kickflip
 
